@@ -1,0 +1,8 @@
+%div( ng-controller = "IndexCtrl" )
+  %div( ng-repeat = "post in data.posts" )
+    {{ post.title }}
+    %br
+    {{ post.contents }}
+    %br
+    %br
+  %a( ng-href="post" ) post example

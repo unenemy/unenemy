@@ -1,0 +1,4 @@
+== README
+
+This is an initial project for starting development with Ruby On Rails 4.0 and AngularJS.
+Angular templates support Haml markup.
